@@ -1,4 +1,4 @@
-##Learning React Steps
+# Learning React Steps
 ## building small projects
 
 ## React + Vite
